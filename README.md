@@ -122,13 +122,9 @@ Real-time NSE stock analysis platform combining technical indicators with ML-bas
 
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="center">
-
-<sub><i>"Inventing and Innovating in Technology for Humanity"</i></sub>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=90&section=footer" width="100%"/>
 
