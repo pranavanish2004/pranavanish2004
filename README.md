@@ -122,20 +122,6 @@ Real-time NSE stock analysis platform combining technical indicators with ML-bas
 
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavanish2004&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=90&section=footer" width="100%"/>
 
 </div>
