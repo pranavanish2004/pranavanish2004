@@ -117,12 +117,25 @@ Real-time NSE stock analysis platform combining technical indicators with ML-bas
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=pranavanish2004&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavanish2004&hide_border=true&theme=tokyonight&background=0f172a&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=pranavanish2004&hide_border=true&theme=tokyonight&background=0f172a&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavanish2004&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 <br/>
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=90&section=footer" width="100%"/>
+
 </div>
