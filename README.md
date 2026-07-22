@@ -116,8 +116,8 @@ Real-time NSE stock analysis platform combining technical indicators with ML-bas
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true&theme=tokyonight&background=0f172a&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pranavanish2004&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavanish2004&hide_border=true&theme=tokyonight&background=0f172a&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
 
 </div>
 
