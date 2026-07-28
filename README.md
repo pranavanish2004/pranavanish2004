@@ -101,7 +101,7 @@ Real-time NSE stock analysis platform combining technical indicators with ML-bas
 
 `XGBoost` `TA-Lib` `SmartAPI` `Streamlit`
 
-[Repository →](https://github.com/your-username/your-repo)
+[Repository →](https://github.com/pranavanish2004/AngelAI)
 
 </td>
 <td width="50%" valign="top">
