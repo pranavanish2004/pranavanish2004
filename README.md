@@ -88,7 +88,7 @@ Real-time voice translation platform enabling multilingual conversation between 
 
 `FastAPI` `LLMs` `WebRTC` `Docker` `Redis Streams`
 
-[Repository →](https://github.com/your-username/your-repo)
+[Repository →](https://github.com/pranavanish2004/AI-Phone-Interpreter)
 
 </td>
 </tr>
